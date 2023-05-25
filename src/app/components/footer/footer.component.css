@@ -1,0 +1,16 @@
+footer{
+    width: 100%;
+    height: 600px;
+    background-color: #13120e;
+    position: relative;
+}
+
+app-skew-top{
+    z-index: 10;
+    position: absolute;
+    top:0;
+    right: 0;
+    border-width: 35vh 100vw 0 0 ;
+    border-style: solid;
+    border-color:  #fff transparent transparent transparent;
+}
