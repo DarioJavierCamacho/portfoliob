@@ -1,0 +1,7 @@
+.top-color{
+    height: 25vh;
+    width: 100%;
+    border-width: 25vh 100vw 0 0 ;
+    border-style: solid;
+    border-color:  #fff transparent transparent transparent;
+}

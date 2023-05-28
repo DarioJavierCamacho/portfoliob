@@ -4,3 +4,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root {
+    --bg-oscuro: #13120e;
+    --bg-claro: #fff;
+  }

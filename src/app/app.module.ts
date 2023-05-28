@@ -16,6 +16,8 @@ import { HysComponent } from './components/hys/hys.component';
 import { EducacionComponent } from './components/educacion/educacion.component';
 import { ExperienciaComponent } from './components/experiencia/experiencia.component';
 import { ProyectosComponent } from './components/proyectos/proyectos.component';
+import { SkTopColorComponent } from './components/sk-top-color/sk-top-color.component';
+import { SkBotColorComponent } from './components/sk-bot-color/sk-bot-color.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +34,9 @@ import { ProyectosComponent } from './components/proyectos/proyectos.component';
     HysComponent,
     EducacionComponent,
     ExperienciaComponent,
-    ProyectosComponent
+    ProyectosComponent,
+    SkTopColorComponent,
+    SkBotColorComponent
   ],
   imports: [
     BrowserModule,

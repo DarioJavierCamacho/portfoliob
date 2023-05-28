@@ -1,0 +1,17 @@
+main{
+    background-color: #13120e;
+    background-size: cover;
+    width: 100%;
+    color: white;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}  
+
+
+app-experiencia, app-hys{
+    background-color: var(--bg-claro);
+    color: #13120e;
+}

@@ -1,0 +1,7 @@
+.bot-color{
+    width: 100%;
+    height: 25vh;
+    border-width: 0 0 25vh 100vw;
+    border-style: solid;
+    border-color: transparent transparent var(--bg-claro) transparent;
+}
