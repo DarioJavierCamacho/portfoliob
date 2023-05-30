@@ -20,7 +20,7 @@ app-skew-bottom{
     left: 0;
     border-width: 0 0 25vh 100vw;
     border-style: solid;
-    border-color: transparent transparent #fff transparent;
+    border-color: transparent transparent var(--bg-oscuro) transparent;
 }
 
 app-content-header{ 
